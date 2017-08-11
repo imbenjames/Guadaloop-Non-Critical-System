@@ -84,7 +84,7 @@
 	</Item>
 	<Item Name="NI-myRIO-1900-030d70ed" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">NI-myRIO-1900-030d70ed</Property>
-		<Property Name="alias.value" Type="Str">172.22.11.2</Property>
+		<Property Name="alias.value" Type="Str">192.168.0.100</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,762F;FPGAPersonality,myRIO_FP_Custom;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">762F</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>

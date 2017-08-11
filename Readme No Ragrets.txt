@@ -1,28 +1,25 @@
-Release AutoBot v2.4
-
+Release AutoBot v3.3
 
 Done:
 
 
-- Change code for smaller power resistor on power sensor
-- Auto start up
-
+- Laser readings reformatted with last 10 timestamps
 
 To Do:
 
 - State machine logic
-
-- Battery % checker (integrate power consumption and log it)
-- Pod health with min max next to it
-- Communications heartbeat on HQ
-- Integrate accelerometer data into pod code & HQ main
-- Read distance, velocity, and acceleration from lasers
-- Logic to always count with wheel lasers
-- Packaging UDP data
+ JAIDEV
+- Communications heartbeat on HQ JAIDEV
+- Battery % checker (integrate power consumption and log it) JAIDEV
+- Pod health with min max next to it 
+- Integrate accelerometer data into pod code & HQ main JOHN
+- Read distance, velocity, and acceleration from lasers BEN
+- Logic to always count with wheel lasers BEN
+- Packaging UDP data JOHN D
 - Countdown clock to braking, adjustable during run. Start after 2 tape counts
 - HQ UI for competition
 
-- Calibration for ToFs
+- Calibration for ToFs BEN
 - Detect emag engagement through dip in current
 - Stream data to HQ
 
