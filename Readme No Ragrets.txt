@@ -4,17 +4,8 @@ Release AutoBot v2.4
 Done:
 
 
-- State machine outline
-
-
-- Power readings
-
-- Pressure readings
-
-- iPad UI update
-
-
-
+- Change code for smaller power resistor on power sensor
+- Auto start up
 
 
 To Do:
@@ -24,7 +15,7 @@ To Do:
 - Battery % checker (integrate power consumption and log it)
 - Pod health with min max next to it
 - Communications heartbeat on HQ
-- Change code for smaller power resistor on power sensor
+- Integrate accelerometer data into pod code & HQ main
 - Read distance, velocity, and acceleration from lasers
 - Logic to always count with wheel lasers
 - Packaging UDP data
@@ -39,8 +30,6 @@ To Do:
 
 
 Help:
-
-- Auto start up
 
 - Syncing timestamp to myRIO from HQ
 
