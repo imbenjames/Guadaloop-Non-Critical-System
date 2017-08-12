@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="17008000">
 	<Property Name="varPersistentID:{01A044A3-D055-45F6-91D1-E8B64CD91D16}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF5</Property>
 	<Property Name="varPersistentID:{096CA7B6-36B1-4E5D-8C70-E2E82CD1DFDA}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BatteryCurrent</Property>
+	<Property Name="varPersistentID:{0AEB2996-B9F7-4B45-B724-DD3A1F2E7FA6}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount3</Property>
 	<Property Name="varPersistentID:{0CC9DFC7-69A7-4375-824B-BB23F48B418F}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Braking</Property>
 	<Property Name="varPersistentID:{11DE049E-7CB2-4856-AD6D-960F769A3316}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way1Open</Property>
 	<Property Name="varPersistentID:{164847AC-990F-4FBD-81D8-FA3C2AD5370A}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ResetSensor</Property>
@@ -11,6 +12,7 @@
 	<Property Name="varPersistentID:{1F84F587-8C37-4197-A82F-B346D2D5FC16}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF6</Property>
 	<Property Name="varPersistentID:{2399E71E-3E43-4052-8F8E-90087BA78390}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BatteryVoltage</Property>
 	<Property Name="varPersistentID:{2AB7A1D7-1640-4CA8-A3C0-B4408F977FB5}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Laser3</Property>
+	<Property Name="varPersistentID:{2E1A2DB3-DB29-4903-BEF3-953EFF9C6D48}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionFLaser1</Property>
 	<Property Name="varPersistentID:{37B0EECF-EA6B-434F-8FDA-EF96E0191342}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BatteryTemp</Property>
 	<Property Name="varPersistentID:{3EB17C29-A815-4921-B081-C4C28596D1C4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1</Property>
 	<Property Name="varPersistentID:{476FE26B-3FDB-4378-A6A8-4F2CD058630E}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Post-Flight</Property>
@@ -28,33 +30,39 @@
 	<Property Name="varPersistentID:{7D94A1EA-7860-4177-94D0-05FB9C15ED90}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way1Port</Property>
 	<Property Name="varPersistentID:{81D93A28-E4C3-42A5-A7D9-79205EBC7545}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/CriticalData</Property>
 	<Property Name="varPersistentID:{82F31ECF-6D07-41E9-8E69-7E782D5511AB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way3</Property>
+	<Property Name="varPersistentID:{8A921660-F936-49E9-8131-9F6EC349DDB2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount4</Property>
 	<Property Name="varPersistentID:{8E1B72DA-C51E-4860-A4F9-505680315382}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SensePower</Property>
 	<Property Name="varPersistentID:{92A097C1-1047-4F15-9E85-0ADA584134D0}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/MagBrake</Property>
 	<Property Name="varPersistentID:{A4D6D110-583B-49E2-BE14-C8215E8DC748}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodState</Property>
 	<Property Name="varPersistentID:{A9315070-4CEF-4A0E-88F5-00987EED6F36}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF3</Property>
 	<Property Name="varPersistentID:{AFF09E49-7F79-47B6-B262-7650AD7E39BE}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Coasting</Property>
+	<Property Name="varPersistentID:{B01FD1F7-A558-4EF0-AB4E-AE05BD969244}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Acceleration</Property>
 	<Property Name="varPersistentID:{B02C7FA0-73A0-43E5-A0A2-C8629921623D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/sendNcData</Property>
-	<Property Name="varPersistentID:{B165CD5F-2A36-492A-BBFA-F17E957FE3BA}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/MP</Property>
+	<Property Name="varPersistentID:{B165CD5F-2A36-492A-BBFA-F17E957FE3BA}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/UtilityPressure</Property>
 	<Property Name="varPersistentID:{B3EE83C4-52F0-47C1-8FB7-043599909DBB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF4</Property>
 	<Property Name="varPersistentID:{B604F05C-EB18-467F-AED6-BBE6FEAF4ECC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/TubePressure</Property>
-	<Property Name="varPersistentID:{B699A0C2-9F76-4EE3-AB65-2D197F8A001D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BP</Property>
+	<Property Name="varPersistentID:{B699A0C2-9F76-4EE3-AB65-2D197F8A001D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BrakePressure</Property>
+	<Property Name="varPersistentID:{B73D5EEF-843C-46F5-B77C-499B02A4FC7D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionFLaser2</Property>
 	<Property Name="varPersistentID:{B78B60A1-7363-4B21-A718-C95D2D36FB0C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF8</Property>
 	<Property Name="varPersistentID:{B9E90EAF-0FD1-4E5D-8B6C-EC1B98395B72}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodTemp</Property>
-	<Property Name="varPersistentID:{BA1F78D7-DE8B-4E28-BDA3-09E0334BA88C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/HP</Property>
+	<Property Name="varPersistentID:{BA1F78D7-DE8B-4E28-BDA3-09E0334BA88C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/HighPressure</Property>
 	<Property Name="varPersistentID:{BAA992A7-B4EE-4132-9163-26BD90644741}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF3Distance</Property>
 	<Property Name="varPersistentID:{BBFF9266-CCF0-4F33-BCF9-D96298B7A5DC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount2</Property>
 	<Property Name="varPersistentID:{BD6C09B1-9ED4-4C8F-9515-6E65441E97D2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Pre-Flight</Property>
-	<Property Name="varPersistentID:{BE3B17FC-2459-4E0A-AB01-710581370424}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/LP</Property>
+	<Property Name="varPersistentID:{BE3B17FC-2459-4E0A-AB01-710581370424}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/LevitationPressure</Property>
 	<Property Name="varPersistentID:{C1A51359-6B61-40C6-80C7-4BFA88CA8AED}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionRaw</Property>
 	<Property Name="varPersistentID:{C597635D-F74E-43EB-A4F6-DC6E272CA107}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF2Distance</Property>
 	<Property Name="varPersistentID:{C809AC04-B9B0-4CC7-84CF-31BCD9001B92}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF2</Property>
 	<Property Name="varPersistentID:{D16FC639-02FF-4BEF-A60E-5211CA8A2E6B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount1</Property>
 	<Property Name="varPersistentID:{D4CFBEFC-BC24-4540-809B-58017545EECC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way1</Property>
+	<Property Name="varPersistentID:{E1ABFC1D-90AB-4A81-8320-29AFFEEEB4B4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Velocity</Property>
+	<Property Name="varPersistentID:{E4A0FB18-F21B-42BA-A8FB-3C119902F07B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser1</Property>
 	<Property Name="varPersistentID:{EB54373A-46BF-43A5-B1B7-541546CB33B9}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToFReadings</Property>
 	<Property Name="varPersistentID:{EB7938BC-1CBB-44B0-AA83-D855579B3A9C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Ready</Property>
 	<Property Name="varPersistentID:{F1C6693B-2EEB-4B4F-A5C4-CD2C00DD4179}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF7</Property>
 	<Property Name="varPersistentID:{F91E687E-F286-4AC2-AEE5-B45140A3EA69}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1Distance</Property>
 	<Property Name="varPersistentID:{FCB99C2A-90A4-4722-AAC0-11B53E9E0371}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Venting</Property>
+	<Property Name="varPersistentID:{FEBF3D2E-D5F8-4C42-B244-47A6166B5F29}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser2</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -84,7 +92,7 @@
 	</Item>
 	<Item Name="NI-myRIO-1900-030d70ed" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">NI-myRIO-1900-030d70ed</Property>
-		<Property Name="alias.value" Type="Str">172.22.11.2</Property>
+		<Property Name="alias.value" Type="Str">192.168.0.100</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,762F;FPGAPersonality,myRIO_FP_Custom;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">762F</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
@@ -1963,7 +1971,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9F0DD41D-D13A-41DD-87A3-E8A443037F05}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
