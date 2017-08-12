@@ -8,7 +8,7 @@ Done:
 To Do:
 
 - State machine logic
- JAIDEV
+ JAIDEV testing
 - Communications heartbeat on HQ JAIDEV
 - Battery % checker (integrate power consumption and log it) JAIDEV
 - Pod health with min max next to it 
