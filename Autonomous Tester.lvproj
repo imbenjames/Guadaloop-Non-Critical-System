@@ -18,8 +18,12 @@
 	<Property Name="varPersistentID:{3EB17C29-A815-4921-B081-C4C28596D1C4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1</Property>
 	<Property Name="varPersistentID:{476FE26B-3FDB-4378-A6A8-4F2CD058630E}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Post-Flight</Property>
 	<Property Name="varPersistentID:{4D88631F-D0FE-47FC-9FB6-2BD83D5C81C0}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ResetLaserCount</Property>
+	<Property Name="varPersistentID:{4E416CBD-822F-44FC-8E8E-E73AF58F10A5}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/AutoSequenceOn</Property>
 	<Property Name="varPersistentID:{4F40905C-458B-4286-8B62-2165C0480AEB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/FricBrake</Property>
+	<Property Name="varPersistentID:{4FACED27-7ACD-4D4A-8ACC-8F0AF771FCE2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SelectedStripeCount</Property>
+	<Property Name="varPersistentID:{51E54197-7096-4DF0-906A-7980FBEDADF3}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SelectPositionFLaser</Property>
 	<Property Name="varPersistentID:{54367832-98AE-4F9B-9DEE-809907831112}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Laser2</Property>
+	<Property Name="varPersistentID:{562EABBA-D234-4DE5-9230-643D46CD8E55}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/RipCordOut</Property>
 	<Property Name="varPersistentID:{58AA1938-1C9B-432C-A963-5FFC38AD1D1B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way2Port</Property>
 	<Property Name="varPersistentID:{58C4B880-A855-41FA-8EB2-45EA1A76B573}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF4Distance</Property>
 	<Property Name="varPersistentID:{5FCAF009-8C40-40F2-AB97-1F5688DE707E}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/TeamID</Property>
@@ -33,10 +37,14 @@
 	<Property Name="varPersistentID:{7D94A1EA-7860-4177-94D0-05FB9C15ED90}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way1Port</Property>
 	<Property Name="varPersistentID:{81D93A28-E4C3-42A5-A7D9-79205EBC7545}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/CriticalData</Property>
 	<Property Name="varPersistentID:{82F31ECF-6D07-41E9-8E69-7E782D5511AB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way3</Property>
+	<Property Name="varPersistentID:{888651E2-1ECF-43BE-B175-9E235FD186DC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/OperatingBrakes</Property>
 	<Property Name="varPersistentID:{8A921660-F936-49E9-8131-9F6EC349DDB2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount4</Property>
+	<Property Name="varPersistentID:{8BB3CDBE-0C9B-4FBB-B95F-C3F1172A01C1}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/TimerLimit</Property>
 	<Property Name="varPersistentID:{8E1B72DA-C51E-4860-A4F9-505680315382}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SensePower</Property>
+	<Property Name="varPersistentID:{8FB49A5F-E556-4FC9-BB5F-3B9823846AA7}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodStateStatus</Property>
 	<Property Name="varPersistentID:{92A097C1-1047-4F15-9E85-0ADA584134D0}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/MagBrake</Property>
-	<Property Name="varPersistentID:{A4D6D110-583B-49E2-BE14-C8215E8DC748}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodState</Property>
+	<Property Name="varPersistentID:{93484BB2-A743-43F0-AC10-FD252F0A9C96}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/TimerValue</Property>
+	<Property Name="varPersistentID:{A4D6D110-583B-49E2-BE14-C8215E8DC748}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodStateCommand</Property>
 	<Property Name="varPersistentID:{A9315070-4CEF-4A0E-88F5-00987EED6F36}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF3</Property>
 	<Property Name="varPersistentID:{AFF09E49-7F79-47B6-B262-7650AD7E39BE}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Coasting</Property>
 	<Property Name="varPersistentID:{B01FD1F7-A558-4EF0-AB4E-AE05BD969244}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Acceleration</Property>
@@ -63,8 +71,10 @@
 	<Property Name="varPersistentID:{E4A0FB18-F21B-42BA-A8FB-3C119902F07B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser1</Property>
 	<Property Name="varPersistentID:{EB54373A-46BF-43A5-B1B7-541546CB33B9}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToFReadings</Property>
 	<Property Name="varPersistentID:{EB7938BC-1CBB-44B0-AA83-D855579B3A9C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Ready</Property>
+	<Property Name="varPersistentID:{EFE3EB9B-537A-4CE1-85D1-A153D3B248EA}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeLimit</Property>
 	<Property Name="varPersistentID:{F1C6693B-2EEB-4B4F-A5C4-CD2C00DD4179}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF7</Property>
 	<Property Name="varPersistentID:{F91E687E-F286-4AC2-AEE5-B45140A3EA69}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1Distance</Property>
+	<Property Name="varPersistentID:{FA57634A-ECC3-4254-9AF6-61A4B7B44F0D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/IgnoreRipCord(Temp)</Property>
 	<Property Name="varPersistentID:{FCB99C2A-90A4-4722-AAC0-11B53E9E0371}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Venting</Property>
 	<Property Name="varPersistentID:{FEBF3D2E-D5F8-4C42-B244-47A6166B5F29}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser2</Property>
 	<Item Name="My Computer" Type="My Computer">

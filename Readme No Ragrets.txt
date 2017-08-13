@@ -29,6 +29,7 @@ Jaidev_v1 Edits
 - removed FP controls from high speed timed loop
 - added UDP sender and integrated John D's UDP packet creation
 -- UDP initialization not working in deployed code. BYpassing error from UDP initalize works fine.
+-Need to reolve pod state command and status
 
 
 
