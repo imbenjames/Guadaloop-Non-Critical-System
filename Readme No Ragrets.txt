@@ -8,7 +8,6 @@ Done:
 To Do:
 
 - State machine logic
- JAIDEV testing
 - Communications heartbeat on HQ JAIDEV
 - Battery % checker (integrate power consumption and log it) JAIDEV
 - Pod health with min max next to it 
@@ -22,6 +21,14 @@ To Do:
 - Calibration for ToFs BEN
 - Detect emag engagement through dip in current
 - Stream data to HQ
+
+Jaidev_v1 Edits
+- Move Position/Velocity/Accel telementry out of non-critical section. Changing to always send
+- Added selector for which laser calculates velocity/accel. Selectors on HQ main
+- surfaced stripe distance and prior lows on HQ main
+- removed FP controls from high speed timed loop
+- added UDP sender and integrated John D's UDP packet creation
+-- UDP initialization not working in deployed code. BYpassing error from UDP initalize works fine.
 
 
 
@@ -58,3 +65,4 @@ NOT doing:
 
 - Write Data to jumpdrive
 - Logging
+
