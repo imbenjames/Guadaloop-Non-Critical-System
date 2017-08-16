@@ -22,7 +22,7 @@ To Do:
 - Detect emag engagement through dip in current
 - Stream data to HQ
 
-Jaidev_v1 Edits
+Jaidev_v2 Edits
 - Move Position/Velocity/Accel telementry out of non-critical section. Changing to always send
 - Added selector for which laser calculates velocity/accel. Selectors on HQ main
 - surfaced stripe distance and prior lows on HQ main
@@ -32,7 +32,7 @@ Jaidev_v1 Edits
 -Need to reolve pod state command and status
 
 
-Jaidev_v2 Edits
+Jaidev_v3 Edits
 - Added state machine logic
 - Validated state machine in static tests on pod
 !! Still TODO: brake settings in Brake phase, Pod health inputs in state machine, 
@@ -44,6 +44,7 @@ keep/remove ignore rip cord, hard limits for stripe and timer count
 
 Bug Fixes:
 - wrt. v1: timer calculation - divide by 1000 instead of multiply [fixed]
+- Fixed analog pressure scaling and changed terminology on James's request Tank, Utility, Brake, Levitation
 
 Open Questions:
 !!velocity calculations are slow, is this a problem?
