@@ -99,6 +99,14 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"=!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="BrakeConditionReached" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"=!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="BrakePressure" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -125,7 +133,19 @@
 		<Property Name="typedefName2" Type="Str">PodState.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/criticalTelemetry.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">../Type Defs/PodState.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%1!)!!"=!A!!!!!!2!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V);7&gt;I)&amp;"S:8.T&gt;8*F!".!#A!-4'^X)&amp;"S:8.T&gt;8*F!!!61!I!$E*S97NF)&amp;"S:8.T&gt;8*F!!!01!=!#5&amp;D&gt;(6B&gt;'^S=Q"Y!0(6KYZ-!!!!!1R1&lt;W24&gt;'&amp;U:3ZD&gt;'Q!9U!7!!A-37ZJ&gt;'FB&lt;'F[;7ZH%F"S:3VG&lt;'FH;(1A6'6T&gt;'FO:Q63:7&amp;E?1&gt;1&gt;8.I;7ZH"5.P98.U"U*S97NJ&lt;G=,5'^T&gt;#VG&lt;'FH;(1&amp;2G&amp;V&lt;(1!#6"P:#"4&gt;'&amp;U:1!31&amp;1!"AJ5;7VF)&amp;.U97VQ!!"C!0(6K`_G!!!!!26D=GFU;7.B&lt;&amp;2F&lt;'6N:82S?3ZD&gt;'Q!2%"1!"!!!!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y!$RF-982F=X1A1X*J&gt;'FD97QA6'6M:7VF&gt;(*Z!!%!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*L:Q)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!?!$RV;O/4!!!!!%-5'^E5X2B&gt;'5O9X2M!'.!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#V"P=X1N:GRJ:WBU"5:B&gt;7RU!!F1&lt;W1A5X2B&gt;'5!%E"5!!9+6'FN:3"4&gt;'&amp;N=!!!'5!+!".-:8:J&gt;'&amp;U;7^O)&amp;"S:8.T&gt;8*F!'1!]&gt;7Y,G-!!!!"&amp;7.S;82J9W&amp;M6'6M:7VF&gt;(*Z,G.U&lt;!"'1&amp;!!%1!!!!%!!A!$!!1!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0!"!:4'&amp;U:8.U)%.S;82J9W&amp;M)&amp;2F&lt;'6N:82S?1!"!"%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="CriticalTelemetry" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">2</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">criticalTelemetry.ctl</Property>
+		<Property Name="typedefName2" Type="Str">PodState.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../Type Defs/criticalTelemetry.ctl</Property>
+		<Property Name="typedefPath2" Type="PathRel">../Type Defs/PodState.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*L:Q)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!?!$RV;O/4!!!!!%-5'^E5X2B&gt;'5O9X2M!'.!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#V"P=X1N:GRJ:WBU"5:B&gt;7RU!!F1&lt;W1A5X2B&gt;'5!%E"5!!9+6'FN:3"4&gt;'&amp;N=!!!'5!+!".-:8:J&gt;'&amp;U;7^O)&amp;"S:8.T&gt;8*F!'1!]&gt;7Y,G-!!!!"&amp;7.S;82J9W&amp;M6'6M:7VF&gt;(*Z,G.U&lt;!"'1&amp;!!%1!!!!%!!A!$!!1!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0!"!:4'&amp;U:8.U)%.S;82J9W&amp;M)&amp;2F&lt;'6N:82S?1!"!"%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="FricBrake" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -143,7 +163,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"=!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="IgnoreRipCord(Temp)" Type="Variable">
+	<Item Name="IgnoreRipCord" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">False</Property>

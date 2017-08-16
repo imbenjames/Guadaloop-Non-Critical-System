@@ -32,6 +32,25 @@ Jaidev_v1 Edits
 -Need to reolve pod state command and status
 
 
+Jaidev_v2 Edits
+- Added state machine logic
+- Validated state machine in static tests on pod
+!! Still TODO: brake settings in Brake phase, Pod health inputs in state machine, 
+keep/remove ignore rip cord, hard limits for stripe and timer count
+
+- Added Operator Interface on HQMain
+- Added ping logic in HQMain to ensure connectivity
+- "Waiting for connection" logic to HQMain so HQMain can be started at any time without waiting on myRIO
+
+Bug Fixes:
+- wrt. v1: timer calculation - divide by 1000 instead of multiply [fixed]
+
+Open Questions:
+!!velocity calculations are slow, is this a problem?
+!!laser selection logic - right = 1, left = 2?
+!!brake states are flexible - is that OK?
+
+
 
 
 Help:
