@@ -78,6 +78,7 @@
 	<Property Name="varPersistentID:{F91E687E-F286-4AC2-AEE5-B45140A3EA69}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1Distance</Property>
 	<Property Name="varPersistentID:{FA57634A-ECC3-4254-9AF6-61A4B7B44F0D}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/IgnoreRipCord</Property>
 	<Property Name="varPersistentID:{FCB99C2A-90A4-4722-AAC0-11B53E9E0371}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Venting</Property>
+	<Property Name="varPersistentID:{FE10D6AA-FAB3-49D6-B7FD-A0C51352B1C8}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodHealth</Property>
 	<Property Name="varPersistentID:{FEBF3D2E-D5F8-4C42-B244-47A6166B5F29}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser2</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -1866,6 +1867,7 @@ AddOutputFilter chunkFilter
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Pod Health Status.vi" Type="VI" URL="../Tools/Sandboxes/Pod Health Status.vi"/>
 			<Item Name="rioembeddedcanlvapi.dll" Type="Document" URL="rioembeddedcanlvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

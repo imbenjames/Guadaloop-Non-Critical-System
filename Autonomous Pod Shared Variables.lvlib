@@ -243,6 +243,16 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"=!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="PodHealth" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">PodHealth.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../Type Defs/PodHealth.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;651%!!"=!A!!!!!!0!"B!)2*0&gt;G6S97RM)&amp;"P:#"):7&amp;M&gt;'A!!!J!)161&lt;X&gt;F=A!/1#%))%*B&gt;(2F=HE!!!R!)1:#=G&amp;L:8-!!"*!5!!$!!%!!A!$"6"P&gt;W6S!!Z!)1B1=G6T=X6S:1!!%E!B$62B&lt;GMA5(*F=X.V=G5!&amp;E!B%&amp;6U;7RJ&gt;(EA5(*F=X.V=G5!!"2!)1Z#=G&amp;L:3"1=G6T=X6S:1!!'%!B%URF&gt;GFU982J&lt;WYA5(*F=X.V=G5!'E"1!!5!"1!'!!=!#!!*#&amp;"S:8.T&gt;8*F!!!/1#%)5'^T;82J&lt;WY!!":!)2"-:8:J&gt;'&amp;U;7^O)#B5&lt;U9J!!!51&amp;!!!A!,!!Q)5'^T;82J&lt;WY!!$1!]&gt;7[AKU!!!!"$6"P:%BF97RU;#ZD&gt;'Q!(E"1!!1!!!!%!!I!$1J1&lt;W1A3'6B&lt;(2I!!!"!!Y!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="PodStateCommand" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
