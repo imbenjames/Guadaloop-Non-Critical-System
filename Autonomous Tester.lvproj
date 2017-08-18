@@ -14,6 +14,7 @@
 	<Property Name="varPersistentID:{2399E71E-3E43-4052-8F8E-90087BA78390}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BatteryVoltage</Property>
 	<Property Name="varPersistentID:{2AB7A1D7-1640-4CA8-A3C0-B4408F977FB5}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Laser3</Property>
 	<Property Name="varPersistentID:{2E1A2DB3-DB29-4903-BEF3-953EFF9C6D48}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionFLaser1</Property>
+	<Property Name="varPersistentID:{33BEF4DD-D544-4224-9543-C634744C3ADC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/MashFric</Property>
 	<Property Name="varPersistentID:{37B0EECF-EA6B-434F-8FDA-EF96E0191342}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BatteryTemp</Property>
 	<Property Name="varPersistentID:{3DC38C44-939D-4C23-BF4D-B5138BE34567}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SelectPositionSLaser</Property>
 	<Property Name="varPersistentID:{3EB17C29-A815-4921-B081-C4C28596D1C4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1</Property>
@@ -31,10 +32,12 @@
 	<Property Name="varPersistentID:{6439620E-DD33-4A2C-843E-EDD966D7F558}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way2</Property>
 	<Property Name="varPersistentID:{64A47E91-D11E-448A-8EE6-0B1933A679BF}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/LaserDebounce</Property>
 	<Property Name="varPersistentID:{65C8DCC6-73D2-4FF6-8223-C0FF628EB4F5}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Fault</Property>
+	<Property Name="varPersistentID:{67E4CB9F-B74C-4580-9C7F-83A68D27B8D3}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/MashMag</Property>
 	<Property Name="varPersistentID:{68E42DA1-3A75-4D9D-BB8B-46989F7AF65B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Pushing</Property>
 	<Property Name="varPersistentID:{6E4D77C6-B8F4-4D44-9BA4-740DA39CD996}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Laser4</Property>
 	<Property Name="varPersistentID:{7208E607-E6EB-4217-A98D-3E5C0544F3D1}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way2Open</Property>
 	<Property Name="varPersistentID:{74DE2C0B-C840-48CF-BC90-FEE63BA27D6F}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Laser1</Property>
+	<Property Name="varPersistentID:{7596172B-2F34-4E55-BC4C-2B712ACA171C}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PodHealthConfig</Property>
 	<Property Name="varPersistentID:{7D94A1EA-7860-4177-94D0-05FB9C15ED90}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/3way1Port</Property>
 	<Property Name="varPersistentID:{81D93A28-E4C3-42A5-A7D9-79205EBC7545}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/CriticalData</Property>
 	<Property Name="varPersistentID:{82F31ECF-6D07-41E9-8E69-7E782D5511AB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way3</Property>
@@ -1692,6 +1695,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Pod Code.vi" Type="VI" URL="../Pod Code.vi"/>
 		<Item Name="Readme No Ragrets.txt" Type="Document" URL="../Readme No Ragrets.txt"/>
+		<Item Name="UDP Test.vi" Type="VI" URL="../../../UDP Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Boolean Trigger__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/boolean/boolean.llb/Boolean Trigger__ogtk.vi"/>
@@ -2022,7 +2026,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9F0DD41D-D13A-41DD-87A3-E8A443037F05}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">12</Property>
+				<Property Name="Bld_version.build" Type="Int">16</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>

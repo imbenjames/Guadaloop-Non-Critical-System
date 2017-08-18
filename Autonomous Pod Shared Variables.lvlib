@@ -133,7 +133,7 @@
 		<Property Name="typedefName2" Type="Str">PodState.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/criticalTelemetry.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">../Type Defs/PodState.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*L:Q)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!?!$RV;O/4!!!!!%-5'^E5X2B&gt;'5O9X2M!'.!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#V"P=X1N:GRJ:WBU"5:B&gt;7RU!!F1&lt;W1A5X2B&gt;'5!%E"5!!9+6'FN:3"4&gt;'&amp;N=!!!'5!+!".-:8:J&gt;'&amp;U;7^O)&amp;"S:8.T&gt;8*F!'1!]&gt;7Y,G-!!!!"&amp;7.S;82J9W&amp;M6'6M:7VF&gt;(*Z,G.U&lt;!"'1&amp;!!%1!!!!%!!A!$!!1!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0!"!:4'&amp;U:8.U)%.S;82J9W&amp;M)&amp;2F&lt;'6N:82S?1!"!"%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J:1)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!&gt;A$RV&lt;Q[R!!!!!%-5'^E5X2B&gt;'5O9X2M!'&amp;!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#&amp;"P:#V4&gt;'^Q"5:B&gt;7RU!!!*5'^E)&amp;.U982F!"*!6!!'#F2J&lt;75A5X2B&lt;8!!!"F!#A!44'6W;82B&gt;'FP&lt;C"1=G6T=X6S:1"E!0(6O#ZD!!!!!26D=GFU;7.B&lt;&amp;2F&lt;'6N:82S?3ZD&gt;'Q!2E"1!"%!!!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y!$Q!1'5RB&gt;'6T&gt;#"$=GFU;7.B&lt;#"5:7RF&lt;76U=HE!!1!2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="CriticalTelemetry" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -145,7 +145,7 @@
 		<Property Name="typedefName2" Type="Str">PodState.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/criticalTelemetry.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">../Type Defs/PodState.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*L:Q)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!?!$RV;O/4!!!!!%-5'^E5X2B&gt;'5O9X2M!'.!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#V"P=X1N:GRJ:WBU"5:B&gt;7RU!!F1&lt;W1A5X2B&gt;'5!%E"5!!9+6'FN:3"4&gt;'&amp;N=!!!'5!+!".-:8:J&gt;'&amp;U;7^O)&amp;"S:8.T&gt;8*F!'1!]&gt;7Y,G-!!!!"&amp;7.S;82J9W&amp;M6'6M:7VF&gt;(*Z,G.U&lt;!"'1&amp;!!%1!!!!%!!A!$!!1!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0!"!:4'&amp;U:8.U)%.S;82J9W&amp;M)&amp;2F&lt;'6N:82S?1!"!"%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J:1)!!"=!A!!!!!!3!!V!"1!(6'6B&lt;3"*2!!.1!5!"F.U982V=Q!!%U!$!!R"9W.F&lt;'6S982J&lt;WY!!!^!!Q!)5'^T;82J&lt;WY!!!^!!Q!)6G6M&lt;W.J&gt;(E!!"6!!Q!01G&amp;U&gt;'6S?3"7&lt;WRU97&gt;F!"6!!Q!01G&amp;U&gt;'6S?3"$&gt;8*S:7ZU!".!!Q!-1G&amp;U&gt;'6S?3"5:7VQ!!!01!-!#&amp;"P:#"5:7VQ!!!41!=!$&amp;.U=GFQ:3"$&lt;X6O&gt;!!!%U!+!!V597ZL)&amp;"S:8.T&gt;8*F!"&gt;!#A!1682J&lt;'FU?3"1=G6T=X6S:1!!&amp;5!+!!Z#=G&amp;L:3"1=G6T=X6S:1!!$U!(!!F"9X2V982P=H-!&gt;A$RV&lt;Q[R!!!!!%-5'^E5X2B&gt;'5O9X2M!'&amp;!&amp;A!)$%FO;82J97RJ?GFO:R*1=G5N:GRJ:WBU)&amp;2F=X2J&lt;G=&amp;5G6B:(E(5(6T;'FO:Q6$&lt;W&amp;T&gt;!&gt;#=G&amp;L;7ZH#&amp;"P:#V4&gt;'^Q"5:B&gt;7RU!!!*5'^E)&amp;.U982F!"*!6!!'#F2J&lt;75A5X2B&lt;8!!!"F!#A!44'6W;82B&gt;'FP&lt;C"1=G6T=X6S:1"E!0(6O#ZD!!!!!26D=GFU;7.B&lt;&amp;2F&lt;'6N:82S?3ZD&gt;'Q!2E"1!"%!!!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y!$Q!1'5RB&gt;'6T&gt;#"$=GFU;7.B&lt;#"5:7RF&lt;76U=HE!!1!2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="FricBrake" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -227,6 +227,22 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"=!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="MashFric" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"=!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="MashMag" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"=!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="OperatingBrakes" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -253,6 +269,16 @@
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/PodHealth.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;651%!!"=!A!!!!!!0!"B!)2*0&gt;G6S97RM)&amp;"P:#"):7&amp;M&gt;'A!!!J!)161&lt;X&gt;F=A!/1#%))%*B&gt;(2F=HE!!!R!)1:#=G&amp;L:8-!!"*!5!!$!!%!!A!$"6"P&gt;W6S!!Z!)1B1=G6T=X6S:1!!%E!B$62B&lt;GMA5(*F=X.V=G5!&amp;E!B%&amp;6U;7RJ&gt;(EA5(*F=X.V=G5!!"2!)1Z#=G&amp;L:3"1=G6T=X6S:1!!'%!B%URF&gt;GFU982J&lt;WYA5(*F=X.V=G5!'E"1!!5!"1!'!!=!#!!*#&amp;"S:8.T&gt;8*F!!!/1#%)5'^T;82J&lt;WY!!":!)2"-:8:J&gt;'&amp;U;7^O)#B5&lt;U9J!!!51&amp;!!!A!,!!Q)5'^T;82J&lt;WY!!$1!]&gt;7[AKU!!!!"$6"P:%BF97RU;#ZD&gt;'Q!(E"1!!1!!!!%!!I!$1J1&lt;W1A3'6B&lt;(2I!!!"!!Y!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="PodHealthConfig" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">PodHealthConfig.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../Type Defs/PodHealthConfig.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,U]!)!!"=!A!!!!!!7!"N!#A!61G&amp;U&gt;#YA1X6S=G6O&gt;#".98AA+%%J!"V!#A!7)%*B&gt;(1O)%.V=H*F&lt;H1A47FO)#B"+1!!'U!+!"6#982U,C"7&lt;WRU97&gt;F)%VJ&lt;C!I6CE!'U!+!"6#982U,C"7&lt;WRU97&gt;F)%VB?#!I6CE!'U!+!"6#=G&amp;L:3"$&gt;8*S:7ZU)%VB?#!I13E!(5!+!"9A1H*B;W5A1X6S=G6O&gt;#".;7YA+%%J!!!&lt;1!I!&amp;5*S97NF)&amp;:P&lt;(2B:W5A47FO)#B7+1!&lt;1!I!&amp;5*S97NF)&amp;:P&lt;(2B:W5A47&amp;Y)#B7+1!=1&amp;!!#!!!!!%!!A!$!!1!"1!'!!=&amp;5'^X:8)!&amp;5!+!!Z597ZL)%VB?#!I5&amp;.*+1!!&amp;5!+!!Z597ZL)%VJ&lt;C!I5&amp;.*+1!!&amp;U!+!"&amp;6&gt;'FM;82Z)%VB?#!I5&amp;.*+1!81!I!%66U;7RJ&gt;(EA47FO)#B15UEJ!"6!#A!01H*B;W5A47&amp;Y)#B15UEJ!"6!#A!01H*B;W5A47FO)#B15UEJ!"N!#A!54'6W;82B&gt;'FP&lt;C".98AA+&amp;"433E!!"N!#A!54'6W;82B&gt;'FP&lt;C".;7YA+&amp;"433E!!#"!5!!)!!E!#A!,!!Q!$1!/!!]!%!B1=G6T=X6S:1!!%U!+!!V-:89O)%VJ&lt;C!I&lt;7UJ!".!#A!.4'6W,C".98AA+'VN+1!51&amp;!!!A!3!"-)5'^T;82J&lt;WY!!%9!]&gt;7[B-=!!!!"%V"P:%BF97RU;%.P&lt;G:J:SZD&gt;'Q!+E"1!!-!#!!2!"195'^E)%BF97RU;#"$&lt;WZG;7&gt;V=G&amp;U;7^O!!!"!"5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="PodStateCommand" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -261,7 +287,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">PodState.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/PodState.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1D!!!!"=!A!!!!!!"!(I!]&gt;7LDEQ!!!!"$&amp;"P:&amp;.U982F,G.U&lt;!"F1"9!#!R*&lt;GFU;7&amp;M;8JJ&lt;G=35(*F,7:M;7&gt;I&gt;#"5:8.U;7ZH"6*F972Z"V"V=WBJ&lt;G=&amp;1W^B=X1(1H*B;WFO:QN1&lt;X.U,7:M;7&gt;I&gt;!6'986M&gt;!!+5'^E)&amp;.U982F=Q!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/CA!!!"=!A!!!!!!"!(A!]&gt;7]/M1!!!!"$&amp;"P:&amp;.U982F,G.U&lt;!"D1"9!#!R*&lt;GFU;7&amp;M;8JJ&lt;G=35(*F,7:M;7&gt;I&gt;#"5:8.U;7ZH"6*F972Z"V"V=WBJ&lt;G=&amp;1W^B=X1(1H*B;WFO:QB1&lt;W1N5X2P=!6'986M&gt;!!!#F"P:#"4&gt;'&amp;U:8-!!!%!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="PodStateStatus" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -271,7 +297,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">PodState.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../Type Defs/PodState.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1D!!!!"=!A!!!!!!"!(I!]&gt;7LDEQ!!!!"$&amp;"P:&amp;.U982F,G.U&lt;!"F1"9!#!R*&lt;GFU;7&amp;M;8JJ&lt;G=35(*F,7:M;7&gt;I&gt;#"5:8.U;7ZH"6*F972Z"V"V=WBJ&lt;G=&amp;1W^B=X1(1H*B;WFO:QN1&lt;X.U,7:M;7&gt;I&gt;!6'986M&gt;!!+5'^E)&amp;.U982F=Q!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#/CA!!!"=!A!!!!!!"!(A!]&gt;7]/M1!!!!"$&amp;"P:&amp;.U982F,G.U&lt;!"D1"9!#!R*&lt;GFU;7&amp;M;8JJ&lt;G=35(*F,7:M;7&gt;I&gt;#"5:8.U;7ZH"6*F972Z"V"V=WBJ&lt;G=&amp;1W^B=X1(1H*B;WFO:QB1&lt;W1N5X2P=!6'986M&gt;!!!#F"P:#"4&gt;'&amp;U:8-!!!%!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="PodTemp" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
