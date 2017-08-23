@@ -70,6 +70,7 @@
 	<Property Name="varPersistentID:{C1A51359-6B61-40C6-80C7-4BFA88CA8AED}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionRaw</Property>
 	<Property Name="varPersistentID:{C597635D-F74E-43EB-A4F6-DC6E272CA107}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF2Distance</Property>
 	<Property Name="varPersistentID:{C809AC04-B9B0-4CC7-84CF-31BCD9001B92}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF2</Property>
+	<Property Name="varPersistentID:{D0B58759-A066-4476-8F0A-23BB2C9688F2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/VelocityThreshold</Property>
 	<Property Name="varPersistentID:{D16FC639-02FF-4BEF-A60E-5211CA8A2E6B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount1</Property>
 	<Property Name="varPersistentID:{D4CFBEFC-BC24-4540-809B-58017545EECC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way1</Property>
 	<Property Name="varPersistentID:{E1ABFC1D-90AB-4A81-8320-29AFFEEEB4B4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Velocity</Property>
@@ -1695,6 +1696,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Pod Code.vi" Type="VI" URL="../Pod Code.vi"/>
 		<Item Name="Readme No Ragrets.txt" Type="Document" URL="../Readme No Ragrets.txt"/>
+		<Item Name="TimerControl.ctl" Type="VI" URL="../../../../Documents/GitHub/Guadaloop-Pod-myRIO-System/Type Defs/TimerControl.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Accelerometer Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Accelerometer/typedefs/Accelerometer Channels Enum.ctl"/>
@@ -2064,7 +2066,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1D4236BC-6B4E-4808-A018-DAD26BD76864}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
