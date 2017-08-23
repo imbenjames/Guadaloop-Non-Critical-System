@@ -51,7 +51,22 @@ Open Questions:
 !!laser selection logic - right = 1, left = 2?
 !!brake states are flexible - is that OK?
 
+Jaidev_v7 Edits
+- Changed OR condition for ToFs in Pod Health to AND - ALL ToFs need to work right for Pod Health Green
+- Timer start when velocity is greater than 5m/s
+- Timer starts when pushing is detected
+- Changed velocity input from NSV to local var in ready state to evaluate for pushing
+- Commented out redundant rip cord check in pod-stop state
+- Added calculated position, velocity and accel to critical telemetry
+- Vars duplicated in Critical telemetry (like velocity, accel, position) made non NC (pu them in non-crit case and removed attached indicators on HQMain, except in Telemetry tab)
+- Reading all vars on Operator tab and always visible screen from critical telemetry
+- Force stripe limit and timer limit values in order and then change state command to ready (clicking ready in phase control will not yield same effect)
+- Added "Add to timer" "Add to stripe" inputs on HQMain and event cases
 
+!! still left - for NSVs that take safe default values from HQMain (everything on configuration tab, stripe limit, timer limit), it seems wrong to initialize in pod code. What should we do?
+!! Battery monitor
+!!fault logic
+!! reset count in ready- take it out? or write false somwhere else. Or leave as is cos it works?
 
 
 Help:
