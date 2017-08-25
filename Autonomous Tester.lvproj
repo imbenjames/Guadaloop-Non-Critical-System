@@ -19,6 +19,7 @@
 	<Property Name="varPersistentID:{3DC38C44-939D-4C23-BF4D-B5138BE34567}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/SelectPositionSLaser</Property>
 	<Property Name="varPersistentID:{3EB17C29-A815-4921-B081-C4C28596D1C4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToF1</Property>
 	<Property Name="varPersistentID:{476FE26B-3FDB-4378-A6A8-4F2CD058630E}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/State:Post-Flight</Property>
+	<Property Name="varPersistentID:{4BD5CC2E-9DD3-4789-9F85-605F5C2B458F}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ThermalReadings</Property>
 	<Property Name="varPersistentID:{4D88631F-D0FE-47FC-9FB6-2BD83D5C81C0}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ResetLaserCount</Property>
 	<Property Name="varPersistentID:{4E416CBD-822F-44FC-8E8E-E73AF58F10A5}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/AutoSequenceOn</Property>
 	<Property Name="varPersistentID:{4F40905C-458B-4286-8B62-2165C0480AEB}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/FricBrake</Property>
@@ -73,6 +74,7 @@
 	<Property Name="varPersistentID:{D0B58759-A066-4476-8F0A-23BB2C9688F2}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/VelocityThreshold</Property>
 	<Property Name="varPersistentID:{D16FC639-02FF-4BEF-A60E-5211CA8A2E6B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/StripeCount1</Property>
 	<Property Name="varPersistentID:{D4CFBEFC-BC24-4540-809B-58017545EECC}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/2way1</Property>
+	<Property Name="varPersistentID:{DC506E65-EC92-4314-95AC-DE762ADDC7ED}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/BrakeCurrent</Property>
 	<Property Name="varPersistentID:{E1ABFC1D-90AB-4A81-8320-29AFFEEEB4B4}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/Velocity</Property>
 	<Property Name="varPersistentID:{E4A0FB18-F21B-42BA-A8FB-3C119902F07B}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/PositionSLaser1</Property>
 	<Property Name="varPersistentID:{EB54373A-46BF-43A5-B1B7-541546CB33B9}" Type="Ref">/NI-myRIO-1900-030d70ed/Autonomous Pod Shared Variables.lvlib/ToFReadings</Property>
@@ -1696,7 +1698,6 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Pod Code.vi" Type="VI" URL="../Pod Code.vi"/>
 		<Item Name="Readme No Ragrets.txt" Type="Document" URL="../Readme No Ragrets.txt"/>
-		<Item Name="TimerControl.ctl" Type="VI" URL="../../../../Documents/GitHub/Guadaloop-Pod-myRIO-System/Type Defs/TimerControl.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Accelerometer Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Accelerometer/typedefs/Accelerometer Channels Enum.ctl"/>

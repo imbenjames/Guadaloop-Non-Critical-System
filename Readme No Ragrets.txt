@@ -68,6 +68,16 @@ Jaidev_v7 Edits
 !!fault logic
 !! reset count in ready- take it out? or write false somwhere else. Or leave as is cos it works?
 
+Jaidev_v9
+-add position indicator derived from stripe count on Operator tab 
+-remove "add stripe count" control on Operator Tab
+-set team id to default 14 on HQmain on Operator Tab
+-show additional thermal readings on HQmain
+-Add Reset Laser count on Control tab
+
+!! still left -
+-make tof y axis scale larger in Position tab
+-Fancy laser not counting on graph on Position tab; can only see the stripe counts in Operator tab
 
 Help:
 
